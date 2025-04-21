@@ -51,10 +51,9 @@ Source: [Kaggle Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix
 
 ##  Files Included<br><br>
 
-- netflix_tittles.csv folder contains:<br>
-  - `netflix_cleaned_final.xlsx` – cleaned and formatted dataset.<br>
-  - Pivot table located in **Pivot_Analysis** sheet in `netflix_cleaned_final.xlsx`.<br>
-  - `netflix_titles_original.csv` - downloaded dataset.<br><br>
+ - `netflix_cleaned_final.xlsx` – cleaned and formatted dataset.<br>
+ - Pivot table located in **Pivot_Analysis** sheet in `netflix_cleaned_final.xlsx`.<br>
+ - `netflix_titles_original.csv` - downloaded dataset.<br><br>
 
 ---<br><br>
 
