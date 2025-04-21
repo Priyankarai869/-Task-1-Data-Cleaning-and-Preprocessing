@@ -1,5 +1,5 @@
 # -Task-1-Data-Cleaning-and-Preprocessing<br><br>
-## 🗂 Dataset<br>
+## Dataset<br>
 **Netflix Movies and TV Shows**<br>
 Source: [Kaggle Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)<br><br>
 
@@ -51,8 +51,10 @@ Source: [Kaggle Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix
 
 ##  Files Included<br><br>
 
-- `netflix_cleaned.xlsx` – cleaned and formatted dataset<br>
-- Pivot table located in **Pivot_Analysis** sheet<br><br>
+- netflix_tittles.csv folder contains:<br>
+  - `netflix_cleaned_final.xlsx` – cleaned and formatted dataset<br>
+  - Pivot table located in **Pivot_Analysis** sheet<br>
+  - `netflix_titles_original.csv` - downloaded dataset<br><br>
 
 ---<br><br>
 
